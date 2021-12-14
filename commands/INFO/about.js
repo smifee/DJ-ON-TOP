@@ -46,9 +46,8 @@ module.exports = {
 
  let Daksh = client.users.cache.get("7762286903058890753").tag;
 
- let Kushal = client.users.cache.get
 
- ("766186622453809162").tag;
+
 
     cpuStat.usagePercent(function(err,percent,seconds){
 
