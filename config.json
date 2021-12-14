@@ -1,0 +1,37 @@
+{
+  "default_prefix" : "+",
+ "owner" :  ["762286903058890753","743884319361204245"],
+ "DB": "mongodb+srv://musicmania:freefire@discordbot.sfs8o.mongodb.net/test",
+"log":  "857196769934966785", 
+"spotifyID" : "3c772cb0fa1642159603a1c897ddbfaf",
+"spotifySecret": "f1c4d9fce1d44fc4bf93145b8b3b2ed5",
+"nodes":[
+    
+    
+    {
+     "host": "lavalink-repl.tserio123.repl.co", 
+     "port": 443, 
+      "password": "youshallnotpass", 
+      "secure": true
+    
+      
+      
+    },
+      {
+     "host": "lavalink-repl-1.tserio123.repl.co",
+      "port": 443, 
+      "password": "youshallnotpass", 
+      "secure": true
+    },
+      {
+        "host": "lavalink-repl-1.kartikbanwala.repl.co",
+         "port": 443, 
+         "password": "youshallnotpass", 
+         "secure": true
+       }
+    
+    ]
+  
+
+
+}
