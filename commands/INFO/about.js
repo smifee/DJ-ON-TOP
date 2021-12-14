@@ -44,7 +44,7 @@ module.exports = {
 
   run: async (client, message, args) => {
 
- let Daksh = client.users.cache.get("7762286903058890753").tag;
+ let Daksh = client.users.cache.get("762286903058890753").tag;
 
 
 
