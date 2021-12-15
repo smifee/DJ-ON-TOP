@@ -17,7 +17,7 @@ module.exports = {
         `v1.0.0`,
       ];
       const status = statuses[Math.floor(Math.random() * statuses.length)];
-      client.user.setActivity(status, { type: "Listening" });
+      client.user.setActivity(status, { type: "LISTENING" });
     }, 60000);
 
 
