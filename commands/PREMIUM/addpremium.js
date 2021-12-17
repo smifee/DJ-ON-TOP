@@ -2,7 +2,7 @@ module.exports = {
     name: "addpremium",
     run : async (client,message,args)=> {
 
-if(message.author.id !== "762286903058890753") return;
+if(message.author.id !== "916603423502250044") return;
 
 let guild = client.guilds.cache.get(args[0])
 
