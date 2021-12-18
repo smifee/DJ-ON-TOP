@@ -9,7 +9,7 @@
     
     
     {
-     "host": "lavalink-repl.tserio123.repl.co", 
+     "host": "lavalink-repl.kartikbanwala6.repl.co", 
      "port": 443, 
       "password": "youshallnotpass", 
       "secure": true
@@ -18,7 +18,7 @@
       
     },
       {
-     "host": "lavalink-repl-1.tserio123.repl.co",
+     "host": "lavalink-repl-1.kartikbanwala6.repl.co",
       "port": 443, 
       "password": "youshallnotpass", 
       "secure": true
@@ -31,7 +31,7 @@
        }
     
     ]
-  
+
 
 
 }
