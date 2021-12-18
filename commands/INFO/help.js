@@ -32,12 +32,12 @@ let prefix2 = "+"
           \`\`\`\nClick the menu below to view help menu!\`\`\`\n\n\n<a:AF_vote:873602739156959242>**VOTE THE BOT**\n[CLICK HERE ](https://top.gg/bot/835861478141198367vote)`
 )
           
-        .setFooter("MADE WITH ðŸ’– BY ᕈαrdhααn♡ﮩ٨ﮩ𓆪")
+        .setFooter("MADE WITH ❣️’– BY ᕈαrdhααn♡ﮩ٨ﮩ𓆪")
           
         
         
                 
-        .setAuthor("MUSIC MANIAÂ© ",client.user.displayAvatarURL())       
+        .setAuthor("DJ™ ",client.user.displayAvatarURL())       
         
 
         const embed1 = new MessageEmbed()
