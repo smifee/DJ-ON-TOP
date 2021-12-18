@@ -1,6 +1,6 @@
  const discord = require('discord.js'); //Define the discord.js module
  const client = new discord.Client()
-
+require('discord-buttons')(client);
 
 const {Database} = require("quickmongo")
 
