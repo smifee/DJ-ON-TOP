@@ -29,7 +29,7 @@ let prefix2 = "+"
        .setDescription(
           `\n <a:arrow:893834730456383561> **Hey I Am DJ™ Here To Make Your Server Cool By Playing Lofi And Chill Music To Start Playing Music Read All The Instructions Below**
 \n\n<a:arrow:893834730456383561>**BOT LIVE ON** **\`+help\`**.\n<a:arrow:893834730456383561>**TO PLAY SONGS** **\`+play <song name>\`**.\n<a:arrow:893834730456383561>**Default Prefix** [ **\`+\`** ]\n<a:arrow:893834730456383561>**Server Prefix** [ **\`+\`** ]\n\n
-          \`\`\`\nClick the menu below to view help menu!\`\`\`\n\n\n<a:AF_vote:873602739156959242>**VOTE THE BOT**\n[CLICK HERE ](https://top.gg/bot/835861478141198367vote)`
+          \`\`\`\nClick the menu below to view help menu!\`\`\`\n\n\n<a:AF_vote:873602739156959242>**VOTE THE BOT**\n[CLICK HERE ](https://top.gg/bot/835861478141198367/vote)`
 )
           
         .setFooter("MADE WITH ❣️’– BY ᕈαrdhααn♡ﮩ٨ﮩ𓆪")
