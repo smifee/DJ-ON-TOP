@@ -44,5 +44,5 @@ const mongoose = require('mongoose');
 			console.log('Mongoose disconnected');
 		});
 
-client.login(process.env.);
+client.login(process.env.TOKEN);
 //donr
