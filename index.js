@@ -44,5 +44,5 @@ const mongoose = require('mongoose');
 			console.log('Mongoose disconnected');
 		});
 
-client.login("ODM1ODYxNDc4MTQxMTk4MzY3.YIVmqQ.1nJ75B_I-UL4JPrhumceLS-vQaE");
+client.login(process.env.);
 //donr
